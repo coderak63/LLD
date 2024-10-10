@@ -1,4 +1,4 @@
-package Logger;
+package DesignPatterns.Behavioral.ChainOfResponsibilityDesignPattern.Logger;
 
 public class DebugLoggerHandler implements LoggerHandler{
     LoggerHandler nextLoggerHandler;

@@ -1,4 +1,4 @@
-package Logger;
+package DesignPatterns.Behavioral.ChainOfResponsibilityDesignPattern.Logger;
 
 public class LogTest {
     public static void main(String[] args) {
